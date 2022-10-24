@@ -1,6 +1,7 @@
 .gcloudignore
 .git
 .gitignore
+
+src/
 node_modules/
-scripts
-dist
+scripts/
